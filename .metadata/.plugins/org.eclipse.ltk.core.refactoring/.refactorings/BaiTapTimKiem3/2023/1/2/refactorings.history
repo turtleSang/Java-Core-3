@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;BaiTap3&apos; to &apos;TimKiem3&apos;&#x0D;&#x0A;- Original project: &apos;BaiTapTimKiem3&apos;&#x0D;&#x0A;- Original element: &apos;BaiTap3&apos;&#x0D;&#x0A;- Renamed element: &apos;TimKiem3&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BaiTap3&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{BaiTap3.java[BaiTap3" matchStrategy="1" name="TimKiem3" qualified="false" references="true" similarDeclarations="false" stamp="1673283280247" textual="false" version="1.0"/>
+</session>
